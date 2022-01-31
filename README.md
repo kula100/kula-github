@@ -1,3 +1,3 @@
 # kula-github
-# practice git changes
+# practice changes
 # practice additional changes to git"
